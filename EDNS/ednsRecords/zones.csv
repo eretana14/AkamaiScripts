@@ -1,0 +1,3 @@
+﻿zone,record_name,record_value
+vimorcr.com,_validation-persist.vimorcr.com,"""sectigo.com; accounturi=acct:11122211@sectigo.com"""
+vvelazqu.pr.com,_validation-persist.vvelazqu.pr.com,"""sectigo.com; accounturi=acct:55522211@sectigo.com"""
