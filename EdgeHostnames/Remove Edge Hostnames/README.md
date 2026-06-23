@@ -12,7 +12,9 @@ Required API Permissions: Your API client must have "Read" access to the Propert
 
 File Location: By default, the script looks for this file at ~/.edgerc (your user home directory) under the [terraform] section.
 
-************ Configuration ************ Before running the script, open remove_edge_hostnames.py and update the Configuration section:
+************ Configuration ************ 
+
+Before running the script, open remove_edge_hostnames.py and update the Configuration section:
 
 # Manually specify the Edge Hostnames you want to remove here.
 
@@ -33,6 +35,6 @@ ACCOUNT_SWITCH_KEY = "1-6JHGX:1-8BYUX"
 CONTRACT_ID = "ctr_1-1NC95D"
 GROUP_ID = "grp_243619"
 
-************ Execution ************ Run the script from your terminal:
-
+************ Execution ************ 
+Run the script from your terminal:
 python remove_edge_hostnames.py
