@@ -25,7 +25,7 @@ Before running the script, open `edgehostname_editor.py` and update the Configur
 ## Leave it as an empty string "" if you want to use the default account access.
 
 ```python
-ACCOUNT_SWITCH_KEY = "1-6JHGX:1-8BYUX"
+ACCOUNT_SWITCH_KEY = ""
 ```
 
 ************* Usage *************
